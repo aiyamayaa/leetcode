@@ -28,6 +28,11 @@ public class KMP {
         return -1;
     }
 
+    /**
+     * 求next数组
+     * @param p
+     * @return
+     */
     public static int[] kmpNext2(String p){
         char[] pp = p.toCharArray();
         int[] next = new int[pp.length];
@@ -47,7 +52,7 @@ public class KMP {
     }
 
     /**
-     * 求next数组
+     * 求next数组:自己的写法
      * @param p
      * @return
      */

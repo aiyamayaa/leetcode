@@ -8,56 +8,20 @@
       <change afterPath="$PROJECT_DIR$/../designPattern/src/main/java/cas/CASDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../designPattern/src/main/java/container/ContainerUnsafe.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../designPattern/src/main/java/vivo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC40m0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC40m1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC46m0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC47m0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopK2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/A_UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/B_Coins2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/B_MinCoinMums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/C_JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/D_UniquePath2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/E_PaintHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/F_decode_ways.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/G_LCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/H_Min_Path_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/IOTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/I_Bomb_Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/J_Counting_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/K_best_buy_and_sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/L_House_Robber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/M_longest_increasing_subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/N_russian_doll_envelopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/O_perfect_squares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc39m2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lc39m3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/lc225m1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/IOTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/IOTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MinSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/NobugClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/OldMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ValidIpAdderss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/happy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/k3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/num14test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/upperList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/P_palindrome_partitioning_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/Q_Copy_Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/R_Coins_in_a_Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/R_Coins_in_a_Line2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/S_Backpack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/S_backpack_V.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SlicingSimulation" beforeDir="false" afterPath="$PROJECT_DIR$/../SlicingSimulation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../designPattern/src/main/java/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/src/main/java/singleton/Singleton1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../designPattern/src/main/java/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../designPattern/src/main/java/singleton/Singleton3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../designPattern/target/classes/META-INF/designPattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/KMP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rest-client" beforeDir="false" afterPath="$PROJECT_DIR$/../rest-client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../restjpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../restjpa/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../slice/bstemplate/Bootstrap-Admin-Theme" beforeDir="false" afterPath="$PROJECT_DIR$/../slice/bstemplate/Bootstrap-Admin-Theme" afterDir="false" />
@@ -130,28 +94,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/upperList.java">
+        <entry file="file://$PROJECT_DIR$/src/dp/Q_Copy_Books.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="675">
+              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ValidIpAdderss.java">
+        <entry file="file://$PROJECT_DIR$/src/dp/R_Coins_in_a_Line.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="780">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/MinSum.java">
+        <entry file="file://$PROJECT_DIR$/src/dp/R_Coins_in_a_Line2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="585">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dp/S_Backpack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -159,33 +132,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/KMP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dp/N_russian_doll_envelopes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dp/O_perfect_squares.java">
+        <entry file="file://$PROJECT_DIR$/src/dp/S_backpack_V.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-              <folding>
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="292">
+              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -233,14 +190,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lc39.java" />
-        <option value="$PROJECT_DIR$/src/lc39m2.java" />
-        <option value="$PROJECT_DIR$/src/lc39m3.java" />
         <option value="$PROJECT_DIR$/src/ArraySum.java" />
         <option value="$PROJECT_DIR$/src/lc40.java" />
         <option value="$PROJECT_DIR$/src/LC40m0.java" />
@@ -283,9 +237,15 @@
         <option value="$PROJECT_DIR$/src/test/ValidIpAdderss.java" />
         <option value="$PROJECT_DIR$/src/test/MinSum.java" />
         <option value="$PROJECT_DIR$/src/dp/IOTools.java" />
-        <option value="$PROJECT_DIR$/src/string/KMP.java" />
         <option value="$PROJECT_DIR$/src/dp/N_russian_doll_envelopes.java" />
         <option value="$PROJECT_DIR$/src/dp/O_perfect_squares.java" />
+        <option value="$PROJECT_DIR$/src/dp/P_palindrome_partitioning_2.java" />
+        <option value="$PROJECT_DIR$/src/dp/Q_Copy_Books.java" />
+        <option value="$PROJECT_DIR$/src/dp/R_Coins_in_a_Line.java" />
+        <option value="$PROJECT_DIR$/src/dp/R_Coins_in_a_Line2.java" />
+        <option value="$PROJECT_DIR$/src/string/KMP.java" />
+        <option value="$PROJECT_DIR$/src/dp/S_Backpack.java" />
+        <option value="$PROJECT_DIR$/src/dp/S_backpack_V.java" />
       </list>
     </option>
   </component>
@@ -299,20 +259,46 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568727899156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569031511978" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -339,35 +325,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.O_perfect_squares">
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.KMP" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.MinSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="O_perfect_squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.O_perfect_squares" />
+  <component name="RunManager" selected="Application.S_Backpack">
+    <configuration name="P_palindrome_partitioning_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.P_palindrome_partitioning_2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -379,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidIpAdderss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ValidIpAdderss" />
+    <configuration name="Q_Copy_Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Q_Copy_Books" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,12 +352,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="upperList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.upperList" />
+    <configuration name="R_Coins_in_a_Line" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.R_Coins_in_a_Line" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_Backpack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.S_Backpack" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_backpack_V" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.S_backpack_V" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.O_perfect_squares" />
-        <item itemvalue="Application.KMP" />
-        <item itemvalue="Application.MinSum" />
-        <item itemvalue="Application.ValidIpAdderss" />
-        <item itemvalue="Application.upperList" />
+        <item itemvalue="Application.S_Backpack" />
+        <item itemvalue="Application.S_backpack_V" />
+        <item itemvalue="Application.R_Coins_in_a_Line" />
+        <item itemvalue="Application.Q_Copy_Books" />
+        <item itemvalue="Application.P_palindrome_partitioning_2" />
       </list>
     </recent_temporary>
   </component>
@@ -438,21 +424,25 @@
       <workItem from="1568713781932" duration="670000" />
       <workItem from="1568720641057" duration="2799000" />
       <workItem from="1568734393897" duration="38000" />
+      <workItem from="1568871248902" duration="11259000" />
+      <workItem from="1568982843170" duration="3067000" />
+      <workItem from="1569027654814" duration="2318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67409000" />
+    <option name="totallyTimeSpent" value="84053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5017007" side_tool="true" weight="0.26190478" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49591836" weight="0.26800978" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49591836" visible="true" weight="0.1996337" />
       <window_info id="Structure" order="6" sideWeight="0.5040816" side_tool="true" weight="0.26961225" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -461,10 +451,10 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.22857143" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.22755101" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32865497" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -513,30 +503,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lc39m2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lc40.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/TopKTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/lc39m3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack.java" />
     <entry file="file://$PROJECT_DIR$/src/lc39.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -668,13 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="659" selection-start-line="659" selection-end-line="659" />
         </state>
       </provider>
     </entry>
@@ -822,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/N_russian_doll_envelopes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -836,6 +788,52 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/O_perfect_squares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/P_palindrome_partitioning_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/Q_Copy_Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/R_Coins_in_a_Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/R_Coins_in_a_Line2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -859,14 +857,24 @@
     <entry file="file://$PROJECT_DIR$/src/test/IOTools.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/O_perfect_squares.java">
+    <entry file="file://$PROJECT_DIR$/src/string/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="600">
+          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/S_Backpack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dp/S_backpack_V.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
         </state>
       </provider>
     </entry>
